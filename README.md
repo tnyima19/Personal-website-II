@@ -38,12 +38,13 @@
           <div class="skill-row">
             <img class="browser" src="images/operational-system.png" alt="">
             <h3><a href="https://github.com/tnyima19/Simulate-Operating-System">Simulate Operating System(C++)</a></h3>
-            <p>This is a personal website with my projects and my information about myself.</p>
+            <p>This is a project simulates operating system. Using various classes such as process, CPU scheduler, CPU, RAM, Operating system. Creates process, exits a process, prints currently running process. The process are queued according to their priority.</p>
           </div>
           <div class="skill-row">
             <img class="data" src="images/word.png" alt="">
             <h3><a href="https://github.com/tnyima19/CountyDownty-2">COUNTYDOWNTY(Swift)</a></h3>
-            <p>Lorem ipsum dolor sit amet, mauris sed consectetuer. Etiam et eu, bibendum interdum, lacus quis mauris. Curabitur wisi, quisque vel eu, rutrum nam.</p>
+            <p>Countydownty is a game app where 9 letters are randomly generated.
+            The player must make words out of the random letters.</p>
           </div>
         </div>
         <hr>
