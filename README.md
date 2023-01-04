@@ -51,7 +51,7 @@
         <div class="contact-me">
           <h2>Get In Touch</h2>
           <h3>Lorem ipsum dolor sit amet, non elit.</h3>
-          <p class="contact-message">If you love art as much as I do. Let's talk about it over coffee.I like art and art likes me.</p>
+          <p class="contact-message">If you love coffee as much as I do. Let's talk about it over coffee.I like coffee and coffee likes me.</p>
           <a class="btn" href="mailto:tnyima19@email.com">CONTACT ME</a>
         </div>
       </div>
