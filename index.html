@@ -27,8 +27,8 @@
           <h2>My Projects.</h2>
           <div class="skill-row">
             <img class="browser" src="images/personal-information.png" alt="">
-            <h3> <a href="https://tnyima19.github.io/Personal-Website/">Classy Personal Website(HTML, CSS)</a></h3>
-            <p>This is a personal website with my projects and my information about myself.</p>
+            <h3> <a href="https://tnyima19.github.io/Restaurant-Project/">Restaurant Menu(HTML, CSS, Bootstrap)</a></h3>
+            <p>This is a Restaurant Menu that I made as a free-lance for a restaurant in Jackson Heights.</p>
           </div>
           <div class="skill-row">
             <img class="data" src="images/data-science.png" alt="">
