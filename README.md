@@ -32,8 +32,8 @@
           </div>
           <div class="skill-row">
             <img class="data" src="images/data-science.png" alt="">
-            <h3>Python Data information using numpy, matplotlib and pandas.</h3>
-            <p>Lorem ipsum dolor sit amet, mauris sed consectetuer. Etiam et eu, bibendum interdum, lacus quis mauris. Curabitur wisi, quisque vel eu, rutrum nam.</p>
+            <h3><a href="https://github.com/tnyima19/Find-South-American-coutry-game">Python Data information using numpy, matplotlib and pandas.</a> </h3>
+            <p>Simple game based on where user must name all 14 countries in South America </p>
           </div>
           <div class="skill-row">
             <img class="browser" src="images/operational-system.png" alt="">
